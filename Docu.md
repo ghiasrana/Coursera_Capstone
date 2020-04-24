@@ -1,4 +1,4 @@
- 1) Introduction/Business Problem
+ ## 1) Introduction/Business Problem
 
 Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to 
 solve or execute. Remember that data science problems always target an audience and are meant to help a group of 
